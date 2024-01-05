@@ -1,6 +1,6 @@
 # Kaleab.S
 
-![Kaleab.S](https://cdn-icons-png.flaticon.com/512/3097/3097041.png)
+![Kaleab.S](https://raw.githubusercontent.com/KaleabSelamawi/simple-portfolio/main/Screenshot%202024-01-03%20130404.png)
 
 ## Introduction
 I am Kaleab.S, a student at Unity Innovation Center and a passionate backend developer. This repository showcases my skills and projects. Explore the different sections to learn more about me and get in touch. Let's create something amazing together!
@@ -30,8 +30,8 @@ Connect with me on various social media platforms:
 
 ## Projects
 Check out some of the projects I have worked on:
-- Project 1: [Link to Project 1](https://github.com/user/project1)
-- Project 2: [Link to Project 2](https://github.com/user/project2)
+- Project 1: [Link to Project 1](https://github.com/KaleabSelamawi/search-form)
+- Project 2: [Link to Project 2](https://github.com/KaleabSelamawi/login-form)
 
 Feel free to explore the repository and get in touch for any collaboration or inquiries.
 
